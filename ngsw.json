@@ -1,0 +1,101 @@
+{
+  "configVersion": 1,
+  "index": "https://emeraldng.github.io/burgerqueen/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://emeraldng.github.io/burgerqueen/favicon.ico",
+        "https://emeraldng.github.io/burgerqueen/index.html",
+        "https://emeraldng.github.io/burgerqueen/main.1b0ddc22a6fc97db8769.js",
+        "https://emeraldng.github.io/burgerqueen/polyfills.f6ae3e8b63939c618130.js",
+        "https://emeraldng.github.io/burgerqueen/runtime.ec2944dd8b20ec099bf3.js",
+        "https://emeraldng.github.io/burgerqueen/scripts.36c624724711738aeb68.js",
+        "https://emeraldng.github.io/burgerqueen/styles.f1d4bf0d9107a932856d.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "https://emeraldng.github.io/burgerqueen/assets/agua.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/cafe-con-leche.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/cafe.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/fondo.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/hamburger.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/hamburguesa-doble.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/huevo.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-128x128.png",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-144x144.png",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-152x152.png",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-192x192.png",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-384x384.png",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-512x512.png",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-72x72.png",
+        "https://emeraldng.github.io/burgerqueen/assets/icons/icon-96x96.png",
+        "https://emeraldng.github.io/burgerqueen/assets/jugo-de-naranja-natural.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/nnn.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/onion-rings.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/papas-fritas.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/queso.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/refresco.jpg",
+        "https://emeraldng.github.io/burgerqueen/assets/sandiw.jpg"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "https://emeraldng.github.io/burgerqueen/assets/agua.jpg": "c1fadbd6f695c55cbed3a1bd6f8cdbff6a3152db",
+    "https://emeraldng.github.io/burgerqueen/assets/cafe-con-leche.jpg": "91bffe045a8b8a3a80ee437f57064da485c97f06",
+    "https://emeraldng.github.io/burgerqueen/assets/cafe.jpg": "dd71ef6835208501f4d2c85412aa54102ae5da47",
+    "https://emeraldng.github.io/burgerqueen/assets/fondo.jpg": "142294055164ea2a24b2fe25f91715055ba6dc95",
+    "https://emeraldng.github.io/burgerqueen/assets/hamburger.jpg": "0d901ce6f83349e34f6dec5e9d490c0ecbed8395",
+    "https://emeraldng.github.io/burgerqueen/assets/hamburguesa-doble.jpg": "a9c0fa21a5cb187bad9ff91526eeda8830c52461",
+    "https://emeraldng.github.io/burgerqueen/assets/huevo.jpg": "12bc507c199361fd8dedba6d992567a84632828e",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "https://emeraldng.github.io/burgerqueen/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "https://emeraldng.github.io/burgerqueen/assets/jugo-de-naranja-natural.jpg": "ca3e9bc7c872806cadaeec56cc954f2581304f33",
+    "https://emeraldng.github.io/burgerqueen/assets/nnn.jpg": "2922828163337ef4e7d67815d923fb1a667fc889",
+    "https://emeraldng.github.io/burgerqueen/assets/onion-rings.jpg": "e12f9ca73fd67da10b7001416fd9196a578872fb",
+    "https://emeraldng.github.io/burgerqueen/assets/papas-fritas.jpg": "30e1aeba08a0fb8b1d393e4e0818fb2b4c8971ab",
+    "https://emeraldng.github.io/burgerqueen/assets/queso.jpg": "96b439a927ecad3cb346057acbe795864e2ec921",
+    "https://emeraldng.github.io/burgerqueen/assets/refresco.jpg": "4bdf6e17b074176e7347ad76c26660bbb186bff6",
+    "https://emeraldng.github.io/burgerqueen/assets/sandiw.jpg": "a88d797cc33884d382e872661da58f5c4eb54334",
+    "https://emeraldng.github.io/burgerqueen/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
+    "https://emeraldng.github.io/burgerqueen/index.html": "c37008e21c9cd1b23d04559915161625ffbe8c0e",
+    "https://emeraldng.github.io/burgerqueen/main.1b0ddc22a6fc97db8769.js": "baad6f124043f63888c402a96c22faeb032699aa",
+    "https://emeraldng.github.io/burgerqueen/polyfills.f6ae3e8b63939c618130.js": "ef2035f0504b4f77eac510c33595c81a5d09e33f",
+    "https://emeraldng.github.io/burgerqueen/runtime.ec2944dd8b20ec099bf3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "https://emeraldng.github.io/burgerqueen/scripts.36c624724711738aeb68.js": "9c5620d87c9fbc385799955a2f353f4eca074f88",
+    "https://emeraldng.github.io/burgerqueen/styles.f1d4bf0d9107a932856d.css": "d4eeb9d4ca5db2016e67246b07b2946a7a784c32"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
