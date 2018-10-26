@@ -1,0 +1,31 @@
+<mdb-navbar SideClass="navbar navbar-expand-lg navbar warning-color">
+  <mdb-navbar-brand>
+    <a href="#" class="navbar-brand">🍔NgB🍔</a>
+  </mdb-navbar-brand>
+  <links>
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link waves-light" mdbWavesEffect>MENUS<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link waves-light" mdbWavesEffect>Desayunos</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link waves-light" mdbWavesEffect>Comidas</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link waves-light" (click)="logout()">Salir</a>
+
+      </li>
+
+    </ul>
+  </links>
+
+</mdb-navbar>
+
+
+
+<div class="container">
+  <app-post></app-post>
+  <app-post-list></app-post-list>
+</div>

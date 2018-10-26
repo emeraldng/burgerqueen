@@ -1,0 +1,64 @@
+.image {
+  height: 40em;
+  background-size: 100%;
+  width: 100%;
+  background-image: url('../../assets/nnn.jpg');
+  background-position: 50% 50%;
+}
+
+.example-container {
+    //width: auto;
+  max-width: 900px;
+  margin: 50px auto;
+  text-align: center;
+  
+}
+
+
+
+.text-white, .h5 {
+    color: rgb(207, 109, 17) !important;
+    text-align: center;
+    background-color: white;
+}
+
+// .mat-card,
+// .card {
+//   display: block;
+//   margin: 0 auto;
+//   width: 400px;
+//   padding-bottom: 60px;
+// }
+
+.card {
+  padding: 30px 45px;
+}
+
+.mat-button {
+  padding: 5px 25px;
+  color: #fff;
+  margin: 5px 0;
+}
+
+#logBtn {
+  padding: 1px 2px;
+}
+
+#fbBtn {
+  width: 200px;
+  /* padding: 5px 10px; */
+}
+
+.socialBtns {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+
+  .fa {
+    padding-right: 10px;
+  }
+}
+
+mat-grid-tile {
+  background: lightblue;
+}
